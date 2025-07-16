@@ -2505,3 +2505,8 @@
 - Paper: [**点击下载**](https://arxiv.org/pdf/2212.00596.pdf)
 - Code: [https://github.com/gab709/brain-llm-beyond-next-word](https://github.com/gab709/brain-llm-beyond-next-word)
 
+623、D2R：Dual-Branch Dynamic Routing Network for Multimodal Sentiment Detection
+
+- Paper: [**点击下载**](https://aclanthology.org/2024.emnlp-main.207.pdf)
+
+- Code：https://github.com/SorF520/D2R
